@@ -1,0 +1,18 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.3.1' apply false
+    id 'com.android.library' version '7.3.1' apply false
+
+}
+//dependencies {
+//    // Java language implementation
+//    implementation 'androidx.dynamicanimation:dynamicanimation:1.0.0-alpha03'
+//
+//}
+//dependencies {
+//
+//    implementation 'androidx.appcompat:appcompat:1.2.0'
+//
+//    implementation 'com.google.android.material:1.2.1'
+//
+//}
